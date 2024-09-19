@@ -34,3 +34,5 @@ Denetimli öğrenme algoritmaları, bu veri setinde denetimsiz öğrenme algorit
 Decision Tree algoritmaları, Gaussian Naive Bayes modeline göre biraz daha yüksek performans göstermiştir.
 K-Means Clustering, sınıfları doğru bir şekilde ayıramadığı için dolandırıcılık tespitinde etkili olmamıştır.
 Veri seti, dolandırıcılık tespiti için denetimli öğrenme algoritmalarına daha uygundur. Bu algoritmalar, verinin etiketlenmiş yapısını daha iyi kullanarak daha başarılı sonuçlar elde etmiştir.
+
+Projenin Kaggle Linki: https://www.kaggle.com/code/mrbanof/notebook3fe56699df
